@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@85.7,340&family=Roboto+Slab:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body {
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
